@@ -1,6 +1,6 @@
 # EX-5 IMPLEMENTATION OF REVERSE ADDRESS RESOLUTION PROTOCOL ( RARP )
 
-## DATE : 05/04/2023
+## DATE : 
 
 ## AIM :
 To write a python program for simulating RARP protocols using UDP
